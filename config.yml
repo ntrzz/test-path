@@ -1,5 +1,5 @@
 title: test
 description: test
 steps:
-  - course: githubtraining/introduction-to-github
+  - course: https://lab.github.com/ntrzz/test/admin/builder/file?p=course-details.md
     description: The first step in your course
